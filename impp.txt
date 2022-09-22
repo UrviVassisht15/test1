@@ -10,6 +10,8 @@ num = as.integer(readline(prompt="Enter a number: "))
 
 }
 
+adddlete
+
 
 
 
